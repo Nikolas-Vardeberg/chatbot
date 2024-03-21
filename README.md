@@ -8,6 +8,10 @@ Gemini AI Chat Interface is a project that demonstrates the integration of Gemin
 - Real-time conversation interface.
 - Simple and intuitive user experience.
 
+# Video
+
+[screen-capture.webm](https://github.com/Nikolas-Vardeberg/chatbot/assets/156543836/12d9de87-5b0e-4d33-8c5e-ff4e1088e2f2)
+
 ## Installation
 
 To run this project locally, follow these steps:
