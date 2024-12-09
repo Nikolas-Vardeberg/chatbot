@@ -2,7 +2,7 @@
 
 import { Bot, Send, User2, } from "lucide-react";
 import { useChat } from "ai/react";
-import Markdown from "@/component/markdown";
+import Markdown from "@/components/markdown";
 
 export default function Home() {
   const { messages, input, handleInputChange, handleSubmit, isLoading, stop } =
