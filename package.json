@@ -11,12 +11,16 @@
   "dependencies": {
     "@google/generative-ai": "^0.2.1",
     "ai": "^3.0.2",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
     "dompurify": "^3.0.9",
     "lucide-react": "^0.359.0",
     "markdown-it": "^14.0.0",
     "next": "14.1.4",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "tailwind-merge": "^2.5.5",
+    "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
     "@types/dompurify": "^3.0.5",
