@@ -3,6 +3,7 @@
 import { Bot, Send, User2, } from "lucide-react";
 import { useChat } from "ai/react";
 import Markdown from "@/components/markdown";
+import { Avatar } from "@/components/ui/avatar";
 
 export default function Home() {
   const { messages, input, handleInputChange, handleSubmit, isLoading, stop } =
@@ -14,6 +15,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center p-24">
       {renderForm()}
       {renderMessages()}
+      <Avatar className="h-8 w-8"/>
     </main>
   );
 
